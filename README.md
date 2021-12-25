@@ -19,5 +19,36 @@ The following are the Azure resources that are required to deploy this accelerat
 - Function App -- to host the custom skills used by the indexer
 - App Service -- to host the search engine website 
 
-![Architecture](![image](https://user-images.githubusercontent.com/88718044/147383469-bce1ecb2-1e90-4bf2-b780-e49ad62aa186.png))
+![Architecture](https://user-images.githubusercontent.com/88718044/147383469-bce1ecb2-1e90-4bf2-b780-e49ad62aa186.png)
+
+## Extracted Information
+The information and insights extracted from the CV documents can be grouped into three categories: 
+
+### PII Information
+- Name 
+- Email
+- Phone number
+- Location 
+- Links (LinkedIn, portfolio website) 
+### Professional Information
+- Years of experience
+- Qualifications
+- Previous roles
+- Skills
+- Languages 
+### Other Insights
+- Key phrases
+
+
+### Search Engine Interface
+Using the provided web app template, a search engine interface can be created to search and filter through the extracted information from the CVs. This interface allows for a complete search engine experience including full-text search, custom filters, and comperhensive result cards. 
+
+#### Home Page
+![Home Page](https://user-images.githubusercontent.com/88718044/147383789-6b88bf5f-69e9-4bc9-bc08-3121af43cabc.png)
+
+
+#### Search Results
+
+
+### Power BI Dashboard
 
