@@ -29,7 +29,7 @@ The information and insights extracted from the CV documents can be grouped into
 - Email
 - Phone number
 - Location 
-- Links (LinkedIn, portfolio website) 
+- Links (LinkedIn, portfolio website, ..etc.) 
 ### Professional Information
 - Years of experience
 - Qualifications
