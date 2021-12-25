@@ -52,5 +52,16 @@ Using the provided web app template, a search engine interface can be created to
 #### Search Results
 
 
-### Power BI Dashboard
+### Power BI Report
+Using the provided Power BI report template, a high-level dashboard can be created to display the information extracted from CVs. 
 
+#### Dashboard
+
+## Contribution
+
+## References 
+This accelerator was built as a continuation of the Knowledge Mining Solution Accelerator. 
+You can find the original project here ([Knowledge Mining Solution Accelerator](https://github.com/Azure-Samples/azure-search-knowledge-mining))
+
+## License
+For all licensing information refer to [LICENSE](https://github.com/AhmedAlmu/cv-knowledge-engine-accelerator-v2/blob/main/LICENSE).
