@@ -39,6 +39,8 @@ The information and insights extracted from the CV documents can be grouped into
 ### Other Insights
 - Key phrases
 
+## User Interface 
+The extracted CV information is stored in a search index, that can then be used to create two ways of displaying and querying the information. The first is a search engine interface hosted in a web app on Azure, and the second is a Power BI report with a high-level dashboard to view the information. 
 
 ### Search Engine Interface
 Using the provided web app template, a search engine interface can be created to search and filter through the extracted information from the CVs. This interface allows for a complete search engine experience including full-text search, custom filters, and comperhensive result cards. 
