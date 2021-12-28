@@ -1,13 +1,13 @@
 # Deployemnt Process
-Deploying the accelerator can be done in seven simple steps, that cover every aspect from deploying the resources, creating the search service elements, and conecting to the web interface. 
+Deploying the accelerator can be done in seven simple steps, that cover every aspect from deploying the resources, creating the search service elements, and connecting to the index to the website and dashboard interfaces. 
 
 ## Prerequisites
 In order to deploy the accelerator, clone or download this repository, and make sure the following requirements are met:
 - Azure Subscription 
+- Postman Software
 - Visual Studio 2019 or later
 - VS Code with Azure Functions extension
-- Sample CV documents
-- Postman 
+- Sample CV documents 
 
 ## Step 0: Deploy the resources
 Using the provided ARM template, create all the required Azure resources by clicking on this button: 
