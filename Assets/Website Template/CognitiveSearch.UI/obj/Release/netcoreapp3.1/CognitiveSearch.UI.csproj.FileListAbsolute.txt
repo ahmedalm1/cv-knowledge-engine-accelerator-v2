@@ -1,0 +1,270 @@
+C:\Users\user\OneDrive - Microsoft\FY22\Q1\Engagements\Umbrella\MAF\CV Knowledge Engine Accelerator\Code\Website\02 - Web UI Template\CognitiveSearch.UI\bin\Release\netcoreapp3.1\appsettings.Development.json
+C:\Users\user\OneDrive - Microsoft\FY22\Q1\Engagements\Umbrella\MAF\CV Knowledge Engine Accelerator\Code\Website\02 - Web UI Template\CognitiveSearch.UI\bin\Release\netcoreapp3.1\appsettings.json
+C:\Users\user\OneDrive - Microsoft\FY22\Q1\Engagements\Umbrella\MAF\CV Knowledge Engine Accelerator\Code\Website\02 - Web UI Template\CognitiveSearch.UI\bin\Release\netcoreapp3.1\bundleconfig.json
+C:\Users\user\OneDrive - Microsoft\FY22\Q1\Engagements\Umbrella\MAF\CV Knowledge Engine Accelerator\Code\Website\02 - Web UI Template\CognitiveSearch.UI\bin\Release\netcoreapp3.1\CognitiveSearch.UI.exe
+C:\Users\user\OneDrive - Microsoft\FY22\Q1\Engagements\Umbrella\MAF\CV Knowledge Engine Accelerator\Code\Website\02 - Web UI Template\CognitiveSearch.UI\bin\Release\netcoreapp3.1\CognitiveSearch.UI.deps.json
+C:\Users\user\OneDrive - Microsoft\FY22\Q1\Engagements\Umbrella\MAF\CV Knowledge Engine Accelerator\Code\Website\02 - Web UI Template\CognitiveSearch.UI\bin\Release\netcoreapp3.1\CognitiveSearch.UI.runtimeconfig.json
+C:\Users\user\OneDrive - Microsoft\FY22\Q1\Engagements\Umbrella\MAF\CV Knowledge Engine Accelerator\Code\Website\02 - Web UI Template\CognitiveSearch.UI\bin\Release\netcoreapp3.1\CognitiveSearch.UI.runtimeconfig.dev.json
+C:\Users\user\OneDrive - Microsoft\FY22\Q1\Engagements\Umbrella\MAF\CV Knowledge Engine Accelerator\Code\Website\02 - Web UI Template\CognitiveSearch.UI\bin\Release\netcoreapp3.1\CognitiveSearch.UI.dll
+C:\Users\user\OneDrive - Microsoft\FY22\Q1\Engagements\Umbrella\MAF\CV Knowledge Engine Accelerator\Code\Website\02 - Web UI Template\CognitiveSearch.UI\bin\Release\netcoreapp3.1\CognitiveSearch.UI.pdb
+C:\Users\user\OneDrive - Microsoft\FY22\Q1\Engagements\Umbrella\MAF\CV Knowledge Engine Accelerator\Code\Website\02 - Web UI Template\CognitiveSearch.UI\bin\Release\netcoreapp3.1\CognitiveSearch.UI.Views.dll
+C:\Users\user\OneDrive - Microsoft\FY22\Q1\Engagements\Umbrella\MAF\CV Knowledge Engine Accelerator\Code\Website\02 - Web UI Template\CognitiveSearch.UI\bin\Release\netcoreapp3.1\CognitiveSearch.UI.Views.pdb
+C:\Users\user\OneDrive - Microsoft\FY22\Q1\Engagements\Umbrella\MAF\CV Knowledge Engine Accelerator\Code\Website\02 - Web UI Template\CognitiveSearch.UI\bin\Release\netcoreapp3.1\Azure.Core.dll
+C:\Users\user\OneDrive - Microsoft\FY22\Q1\Engagements\Umbrella\MAF\CV Knowledge Engine Accelerator\Code\Website\02 - Web UI Template\CognitiveSearch.UI\bin\Release\netcoreapp3.1\Azure.Search.Documents.dll
+C:\Users\user\OneDrive - Microsoft\FY22\Q1\Engagements\Umbrella\MAF\CV Knowledge Engine Accelerator\Code\Website\02 - Web UI Template\CognitiveSearch.UI\bin\Release\netcoreapp3.1\Azure.Storage.Blobs.dll
+C:\Users\user\OneDrive - Microsoft\FY22\Q1\Engagements\Umbrella\MAF\CV Knowledge Engine Accelerator\Code\Website\02 - Web UI Template\CognitiveSearch.UI\bin\Release\netcoreapp3.1\Azure.Storage.Common.dll
+C:\Users\user\OneDrive - Microsoft\FY22\Q1\Engagements\Umbrella\MAF\CV Knowledge Engine Accelerator\Code\Website\02 - Web UI Template\CognitiveSearch.UI\bin\Release\netcoreapp3.1\Microsoft.ApplicationInsights.dll
+C:\Users\user\OneDrive - Microsoft\FY22\Q1\Engagements\Umbrella\MAF\CV Knowledge Engine Accelerator\Code\Website\02 - Web UI Template\CognitiveSearch.UI\bin\Release\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\OneDrive - Microsoft\FY22\Q1\Engagements\Umbrella\MAF\CV Knowledge Engine Accelerator\Code\Website\02 - Web UI Template\CognitiveSearch.UI\bin\Release\netcoreapp3.1\Microsoft.Spatial.dll
+C:\Users\user\OneDrive - Microsoft\FY22\Q1\Engagements\Umbrella\MAF\CV Knowledge Engine Accelerator\Code\Website\02 - Web UI Template\CognitiveSearch.UI\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.BrowserLink.dll
+C:\Users\user\OneDrive - Microsoft\FY22\Q1\Engagements\Umbrella\MAF\CV Knowledge Engine Accelerator\Code\Website\02 - Web UI Template\CognitiveSearch.UI\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\user\OneDrive - Microsoft\FY22\Q1\Engagements\Umbrella\MAF\CV Knowledge Engine Accelerator\Code\Website\02 - Web UI Template\CognitiveSearch.UI\bin\Release\netcoreapp3.1\System.Text.Json.dll
+C:\Users\user\OneDrive - Microsoft\FY22\Q1\Engagements\Umbrella\MAF\CV Knowledge Engine Accelerator\Code\Website\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\CognitiveSearch.UI.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive - Microsoft\FY22\Q1\Engagements\Umbrella\MAF\CV Knowledge Engine Accelerator\Code\Website\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\CognitiveSearch.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive - Microsoft\FY22\Q1\Engagements\Umbrella\MAF\CV Knowledge Engine Accelerator\Code\Website\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\CognitiveSearch.UI.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive - Microsoft\FY22\Q1\Engagements\Umbrella\MAF\CV Knowledge Engine Accelerator\Code\Website\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\CognitiveSearch.UI.AssemblyInfo.cs
+C:\Users\user\OneDrive - Microsoft\FY22\Q1\Engagements\Umbrella\MAF\CV Knowledge Engine Accelerator\Code\Website\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\CognitiveSearch.UI.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive - Microsoft\FY22\Q1\Engagements\Umbrella\MAF\CV Knowledge Engine Accelerator\Code\Website\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\CognitiveSearch.UI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\OneDrive - Microsoft\FY22\Q1\Engagements\Umbrella\MAF\CV Knowledge Engine Accelerator\Code\Website\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\CognitiveSearch.UI.RazorAssemblyInfo.cache
+C:\Users\user\OneDrive - Microsoft\FY22\Q1\Engagements\Umbrella\MAF\CV Knowledge Engine Accelerator\Code\Website\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\CognitiveSearch.UI.RazorAssemblyInfo.cs
+C:\Users\user\OneDrive - Microsoft\FY22\Q1\Engagements\Umbrella\MAF\CV Knowledge Engine Accelerator\Code\Website\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\staticwebassets\CognitiveSearch.UI.StaticWebAssets.Manifest.cache
+C:\Users\user\OneDrive - Microsoft\FY22\Q1\Engagements\Umbrella\MAF\CV Knowledge Engine Accelerator\Code\Website\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\staticwebassets\CognitiveSearch.UI.StaticWebAssets.xml
+C:\Users\user\OneDrive - Microsoft\FY22\Q1\Engagements\Umbrella\MAF\CV Knowledge Engine Accelerator\Code\Website\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\scopedcss\bundle\CognitiveSearch.UI.styles.css
+C:\Users\user\OneDrive - Microsoft\FY22\Q1\Engagements\Umbrella\MAF\CV Knowledge Engine Accelerator\Code\Website\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\CognitiveSearch.UI.TagHelpers.input.cache
+C:\Users\user\OneDrive - Microsoft\FY22\Q1\Engagements\Umbrella\MAF\CV Knowledge Engine Accelerator\Code\Website\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\CognitiveSearch.UI.TagHelpers.output.cache
+C:\Users\user\OneDrive - Microsoft\FY22\Q1\Engagements\Umbrella\MAF\CV Knowledge Engine Accelerator\Code\Website\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\CognitiveSearch.UI.RazorCoreGenerate.cache
+C:\Users\user\OneDrive - Microsoft\FY22\Q1\Engagements\Umbrella\MAF\CV Knowledge Engine Accelerator\Code\Website\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\Razor\Views\Admin\Customize.cshtml.g.cs
+C:\Users\user\OneDrive - Microsoft\FY22\Q1\Engagements\Umbrella\MAF\CV Knowledge Engine Accelerator\Code\Website\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\Razor\Views\Admin\NotAvailable.cshtml.g.cs
+C:\Users\user\OneDrive - Microsoft\FY22\Q1\Engagements\Umbrella\MAF\CV Knowledge Engine Accelerator\Code\Website\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\Razor\Views\Admin\UploadData.cshtml.g.cs
+C:\Users\user\OneDrive - Microsoft\FY22\Q1\Engagements\Umbrella\MAF\CV Knowledge Engine Accelerator\Code\Website\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\user\OneDrive - Microsoft\FY22\Q1\Engagements\Umbrella\MAF\CV Knowledge Engine Accelerator\Code\Website\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\Razor\Views\Home\Search.cshtml.g.cs
+C:\Users\user\OneDrive - Microsoft\FY22\Q1\Engagements\Umbrella\MAF\CV Knowledge Engine Accelerator\Code\Website\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\user\OneDrive - Microsoft\FY22\Q1\Engagements\Umbrella\MAF\CV Knowledge Engine Accelerator\Code\Website\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\Razor\Views\Shared\_Footer.cshtml.g.cs
+C:\Users\user\OneDrive - Microsoft\FY22\Q1\Engagements\Umbrella\MAF\CV Knowledge Engine Accelerator\Code\Website\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\Razor\Views\Shared\_Header.cshtml.g.cs
+C:\Users\user\OneDrive - Microsoft\FY22\Q1\Engagements\Umbrella\MAF\CV Knowledge Engine Accelerator\Code\Website\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\user\OneDrive - Microsoft\FY22\Q1\Engagements\Umbrella\MAF\CV Knowledge Engine Accelerator\Code\Website\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\user\OneDrive - Microsoft\FY22\Q1\Engagements\Umbrella\MAF\CV Knowledge Engine Accelerator\Code\Website\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\user\OneDrive - Microsoft\FY22\Q1\Engagements\Umbrella\MAF\CV Knowledge Engine Accelerator\Code\Website\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\user\OneDrive - Microsoft\FY22\Q1\Engagements\Umbrella\MAF\CV Knowledge Engine Accelerator\Code\Website\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\CognitiveSearch.UI.RazorTargetAssemblyInfo.cache
+C:\Users\user\OneDrive - Microsoft\FY22\Q1\Engagements\Umbrella\MAF\CV Knowledge Engine Accelerator\Code\Website\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\CognitiveSearch.UI.RazorTargetAssemblyInfo.cs
+C:\Users\user\OneDrive - Microsoft\FY22\Q1\Engagements\Umbrella\MAF\CV Knowledge Engine Accelerator\Code\Website\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\CognitiveSearch.UI.Views.pdb
+C:\Users\user\OneDrive - Microsoft\FY22\Q1\Engagements\Umbrella\MAF\CV Knowledge Engine Accelerator\Code\Website\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\CognitiveSearch.UI.csproj.CopyComplete
+C:\Users\user\OneDrive - Microsoft\FY22\Q1\Engagements\Umbrella\MAF\CV Knowledge Engine Accelerator\Code\Website\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\CognitiveSearch.UI.dll
+C:\Users\user\OneDrive - Microsoft\FY22\Q1\Engagements\Umbrella\MAF\CV Knowledge Engine Accelerator\Code\Website\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\CognitiveSearch.UI.pdb
+C:\Users\user\OneDrive - Microsoft\FY22\Q1\Engagements\Umbrella\MAF\CV Knowledge Engine Accelerator\Code\Website\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\CognitiveSearch.UI.genruntimeconfig.cache
+C:\Users\user\Desktop\02 - Web UI Template\CognitiveSearch.UI\bin\Release\netcoreapp3.1\appsettings.Development.json
+C:\Users\user\Desktop\02 - Web UI Template\CognitiveSearch.UI\bin\Release\netcoreapp3.1\bundleconfig.json
+C:\Users\user\Desktop\02 - Web UI Template\CognitiveSearch.UI\bin\Release\netcoreapp3.1\appsettings.json
+C:\Users\user\Desktop\02 - Web UI Template\CognitiveSearch.UI\bin\Release\netcoreapp3.1\CognitiveSearch.UI.exe
+C:\Users\user\Desktop\02 - Web UI Template\CognitiveSearch.UI\bin\Release\netcoreapp3.1\CognitiveSearch.UI.deps.json
+C:\Users\user\Desktop\02 - Web UI Template\CognitiveSearch.UI\bin\Release\netcoreapp3.1\CognitiveSearch.UI.runtimeconfig.json
+C:\Users\user\Desktop\02 - Web UI Template\CognitiveSearch.UI\bin\Release\netcoreapp3.1\CognitiveSearch.UI.runtimeconfig.dev.json
+C:\Users\user\Desktop\02 - Web UI Template\CognitiveSearch.UI\bin\Release\netcoreapp3.1\CognitiveSearch.UI.dll
+C:\Users\user\Desktop\02 - Web UI Template\CognitiveSearch.UI\bin\Release\netcoreapp3.1\CognitiveSearch.UI.pdb
+C:\Users\user\Desktop\02 - Web UI Template\CognitiveSearch.UI\bin\Release\netcoreapp3.1\CognitiveSearch.UI.Views.dll
+C:\Users\user\Desktop\02 - Web UI Template\CognitiveSearch.UI\bin\Release\netcoreapp3.1\CognitiveSearch.UI.Views.pdb
+C:\Users\user\Desktop\02 - Web UI Template\CognitiveSearch.UI\bin\Release\netcoreapp3.1\Azure.Core.dll
+C:\Users\user\Desktop\02 - Web UI Template\CognitiveSearch.UI\bin\Release\netcoreapp3.1\Azure.Search.Documents.dll
+C:\Users\user\Desktop\02 - Web UI Template\CognitiveSearch.UI\bin\Release\netcoreapp3.1\Azure.Storage.Blobs.dll
+C:\Users\user\Desktop\02 - Web UI Template\CognitiveSearch.UI\bin\Release\netcoreapp3.1\Azure.Storage.Common.dll
+C:\Users\user\Desktop\02 - Web UI Template\CognitiveSearch.UI\bin\Release\netcoreapp3.1\Microsoft.ApplicationInsights.dll
+C:\Users\user\Desktop\02 - Web UI Template\CognitiveSearch.UI\bin\Release\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\Desktop\02 - Web UI Template\CognitiveSearch.UI\bin\Release\netcoreapp3.1\Microsoft.Spatial.dll
+C:\Users\user\Desktop\02 - Web UI Template\CognitiveSearch.UI\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.BrowserLink.dll
+C:\Users\user\Desktop\02 - Web UI Template\CognitiveSearch.UI\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\user\Desktop\02 - Web UI Template\CognitiveSearch.UI\bin\Release\netcoreapp3.1\System.Text.Json.dll
+C:\Users\user\Desktop\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\CognitiveSearch.UI.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\CognitiveSearch.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\CognitiveSearch.UI.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\CognitiveSearch.UI.AssemblyInfo.cs
+C:\Users\user\Desktop\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\CognitiveSearch.UI.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\CognitiveSearch.UI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\CognitiveSearch.UI.RazorAssemblyInfo.cache
+C:\Users\user\Desktop\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\CognitiveSearch.UI.RazorAssemblyInfo.cs
+C:\Users\user\Desktop\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\staticwebassets\CognitiveSearch.UI.StaticWebAssets.Manifest.cache
+C:\Users\user\Desktop\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\staticwebassets\CognitiveSearch.UI.StaticWebAssets.xml
+C:\Users\user\Desktop\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\scopedcss\bundle\CognitiveSearch.UI.styles.css
+C:\Users\user\Desktop\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\CognitiveSearch.UI.TagHelpers.input.cache
+C:\Users\user\Desktop\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\CognitiveSearch.UI.TagHelpers.output.cache
+C:\Users\user\Desktop\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\CognitiveSearch.UI.RazorCoreGenerate.cache
+C:\Users\user\Desktop\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\Razor\Views\Admin\Customize.cshtml.g.cs
+C:\Users\user\Desktop\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\Razor\Views\Admin\NotAvailable.cshtml.g.cs
+C:\Users\user\Desktop\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\Razor\Views\Admin\UploadData.cshtml.g.cs
+C:\Users\user\Desktop\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\user\Desktop\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\Razor\Views\Home\Search.cshtml.g.cs
+C:\Users\user\Desktop\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\user\Desktop\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\Razor\Views\Shared\_Footer.cshtml.g.cs
+C:\Users\user\Desktop\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\Razor\Views\Shared\_Header.cshtml.g.cs
+C:\Users\user\Desktop\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\user\Desktop\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\user\Desktop\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\user\Desktop\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\user\Desktop\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\CognitiveSearch.UI.RazorTargetAssemblyInfo.cache
+C:\Users\user\Desktop\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\CognitiveSearch.UI.RazorTargetAssemblyInfo.cs
+C:\Users\user\Desktop\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\CognitiveSearch.UI.Views.pdb
+C:\Users\user\Desktop\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\CognitiveSearch.UI.csproj.CopyComplete
+C:\Users\user\Desktop\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\CognitiveSearch.UI.dll
+C:\Users\user\Desktop\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\CognitiveSearch.UI.pdb
+C:\Users\user\Desktop\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\CognitiveSearch.UI.genruntimeconfig.cache
+C:\Users\ahmedalm\OneDrive - Microsoft\FY22\Q1\Engagements\Umbrella\MAF\CV Knowledge Engine Accelerator\Code\Website\02 - Web UI Template\CognitiveSearch.UI\bin\Release\netcoreapp3.1\appsettings.Development.json
+C:\Users\ahmedalm\OneDrive - Microsoft\FY22\Q1\Engagements\Umbrella\MAF\CV Knowledge Engine Accelerator\Code\Website\02 - Web UI Template\CognitiveSearch.UI\bin\Release\netcoreapp3.1\bundleconfig.json
+C:\Users\ahmedalm\OneDrive - Microsoft\FY22\Q1\Engagements\Umbrella\MAF\CV Knowledge Engine Accelerator\Code\Website\02 - Web UI Template\CognitiveSearch.UI\bin\Release\netcoreapp3.1\appsettings.json
+C:\Users\ahmedalm\OneDrive - Microsoft\FY22\Q1\Engagements\Umbrella\MAF\CV Knowledge Engine Accelerator\Code\Website\02 - Web UI Template\CognitiveSearch.UI\bin\Release\netcoreapp3.1\CognitiveSearch.UI.exe
+C:\Users\ahmedalm\OneDrive - Microsoft\FY22\Q1\Engagements\Umbrella\MAF\CV Knowledge Engine Accelerator\Code\Website\02 - Web UI Template\CognitiveSearch.UI\bin\Release\netcoreapp3.1\CognitiveSearch.UI.deps.json
+C:\Users\ahmedalm\OneDrive - Microsoft\FY22\Q1\Engagements\Umbrella\MAF\CV Knowledge Engine Accelerator\Code\Website\02 - Web UI Template\CognitiveSearch.UI\bin\Release\netcoreapp3.1\CognitiveSearch.UI.runtimeconfig.json
+C:\Users\ahmedalm\OneDrive - Microsoft\FY22\Q1\Engagements\Umbrella\MAF\CV Knowledge Engine Accelerator\Code\Website\02 - Web UI Template\CognitiveSearch.UI\bin\Release\netcoreapp3.1\CognitiveSearch.UI.runtimeconfig.dev.json
+C:\Users\ahmedalm\OneDrive - Microsoft\FY22\Q1\Engagements\Umbrella\MAF\CV Knowledge Engine Accelerator\Code\Website\02 - Web UI Template\CognitiveSearch.UI\bin\Release\netcoreapp3.1\CognitiveSearch.UI.dll
+C:\Users\ahmedalm\OneDrive - Microsoft\FY22\Q1\Engagements\Umbrella\MAF\CV Knowledge Engine Accelerator\Code\Website\02 - Web UI Template\CognitiveSearch.UI\bin\Release\netcoreapp3.1\CognitiveSearch.UI.pdb
+C:\Users\ahmedalm\OneDrive - Microsoft\FY22\Q1\Engagements\Umbrella\MAF\CV Knowledge Engine Accelerator\Code\Website\02 - Web UI Template\CognitiveSearch.UI\bin\Release\netcoreapp3.1\CognitiveSearch.UI.Views.dll
+C:\Users\ahmedalm\OneDrive - Microsoft\FY22\Q1\Engagements\Umbrella\MAF\CV Knowledge Engine Accelerator\Code\Website\02 - Web UI Template\CognitiveSearch.UI\bin\Release\netcoreapp3.1\CognitiveSearch.UI.Views.pdb
+C:\Users\ahmedalm\OneDrive - Microsoft\FY22\Q1\Engagements\Umbrella\MAF\CV Knowledge Engine Accelerator\Code\Website\02 - Web UI Template\CognitiveSearch.UI\bin\Release\netcoreapp3.1\Azure.Core.dll
+C:\Users\ahmedalm\OneDrive - Microsoft\FY22\Q1\Engagements\Umbrella\MAF\CV Knowledge Engine Accelerator\Code\Website\02 - Web UI Template\CognitiveSearch.UI\bin\Release\netcoreapp3.1\Azure.Search.Documents.dll
+C:\Users\ahmedalm\OneDrive - Microsoft\FY22\Q1\Engagements\Umbrella\MAF\CV Knowledge Engine Accelerator\Code\Website\02 - Web UI Template\CognitiveSearch.UI\bin\Release\netcoreapp3.1\Azure.Storage.Blobs.dll
+C:\Users\ahmedalm\OneDrive - Microsoft\FY22\Q1\Engagements\Umbrella\MAF\CV Knowledge Engine Accelerator\Code\Website\02 - Web UI Template\CognitiveSearch.UI\bin\Release\netcoreapp3.1\Azure.Storage.Common.dll
+C:\Users\ahmedalm\OneDrive - Microsoft\FY22\Q1\Engagements\Umbrella\MAF\CV Knowledge Engine Accelerator\Code\Website\02 - Web UI Template\CognitiveSearch.UI\bin\Release\netcoreapp3.1\Microsoft.ApplicationInsights.dll
+C:\Users\ahmedalm\OneDrive - Microsoft\FY22\Q1\Engagements\Umbrella\MAF\CV Knowledge Engine Accelerator\Code\Website\02 - Web UI Template\CognitiveSearch.UI\bin\Release\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ahmedalm\OneDrive - Microsoft\FY22\Q1\Engagements\Umbrella\MAF\CV Knowledge Engine Accelerator\Code\Website\02 - Web UI Template\CognitiveSearch.UI\bin\Release\netcoreapp3.1\Microsoft.Spatial.dll
+C:\Users\ahmedalm\OneDrive - Microsoft\FY22\Q1\Engagements\Umbrella\MAF\CV Knowledge Engine Accelerator\Code\Website\02 - Web UI Template\CognitiveSearch.UI\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.BrowserLink.dll
+C:\Users\ahmedalm\OneDrive - Microsoft\FY22\Q1\Engagements\Umbrella\MAF\CV Knowledge Engine Accelerator\Code\Website\02 - Web UI Template\CognitiveSearch.UI\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ahmedalm\OneDrive - Microsoft\FY22\Q1\Engagements\Umbrella\MAF\CV Knowledge Engine Accelerator\Code\Website\02 - Web UI Template\CognitiveSearch.UI\bin\Release\netcoreapp3.1\System.Text.Json.dll
+C:\Users\ahmedalm\OneDrive - Microsoft\FY22\Q1\Engagements\Umbrella\MAF\CV Knowledge Engine Accelerator\Code\Website\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\CognitiveSearch.UI.csproj.AssemblyReference.cache
+C:\Users\ahmedalm\OneDrive - Microsoft\FY22\Q1\Engagements\Umbrella\MAF\CV Knowledge Engine Accelerator\Code\Website\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\CognitiveSearch.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmedalm\OneDrive - Microsoft\FY22\Q1\Engagements\Umbrella\MAF\CV Knowledge Engine Accelerator\Code\Website\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\CognitiveSearch.UI.AssemblyInfoInputs.cache
+C:\Users\ahmedalm\OneDrive - Microsoft\FY22\Q1\Engagements\Umbrella\MAF\CV Knowledge Engine Accelerator\Code\Website\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\CognitiveSearch.UI.AssemblyInfo.cs
+C:\Users\ahmedalm\OneDrive - Microsoft\FY22\Q1\Engagements\Umbrella\MAF\CV Knowledge Engine Accelerator\Code\Website\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\CognitiveSearch.UI.csproj.CoreCompileInputs.cache
+C:\Users\ahmedalm\OneDrive - Microsoft\FY22\Q1\Engagements\Umbrella\MAF\CV Knowledge Engine Accelerator\Code\Website\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\CognitiveSearch.UI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ahmedalm\OneDrive - Microsoft\FY22\Q1\Engagements\Umbrella\MAF\CV Knowledge Engine Accelerator\Code\Website\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\CognitiveSearch.UI.RazorAssemblyInfo.cache
+C:\Users\ahmedalm\OneDrive - Microsoft\FY22\Q1\Engagements\Umbrella\MAF\CV Knowledge Engine Accelerator\Code\Website\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\CognitiveSearch.UI.RazorAssemblyInfo.cs
+C:\Users\ahmedalm\OneDrive - Microsoft\FY22\Q1\Engagements\Umbrella\MAF\CV Knowledge Engine Accelerator\Code\Website\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\staticwebassets\CognitiveSearch.UI.StaticWebAssets.Manifest.cache
+C:\Users\ahmedalm\OneDrive - Microsoft\FY22\Q1\Engagements\Umbrella\MAF\CV Knowledge Engine Accelerator\Code\Website\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\staticwebassets\CognitiveSearch.UI.StaticWebAssets.xml
+C:\Users\ahmedalm\OneDrive - Microsoft\FY22\Q1\Engagements\Umbrella\MAF\CV Knowledge Engine Accelerator\Code\Website\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\scopedcss\bundle\CognitiveSearch.UI.styles.css
+C:\Users\ahmedalm\OneDrive - Microsoft\FY22\Q1\Engagements\Umbrella\MAF\CV Knowledge Engine Accelerator\Code\Website\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\CognitiveSearch.UI.TagHelpers.input.cache
+C:\Users\ahmedalm\OneDrive - Microsoft\FY22\Q1\Engagements\Umbrella\MAF\CV Knowledge Engine Accelerator\Code\Website\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\CognitiveSearch.UI.TagHelpers.output.cache
+C:\Users\ahmedalm\OneDrive - Microsoft\FY22\Q1\Engagements\Umbrella\MAF\CV Knowledge Engine Accelerator\Code\Website\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\CognitiveSearch.UI.RazorCoreGenerate.cache
+C:\Users\ahmedalm\OneDrive - Microsoft\FY22\Q1\Engagements\Umbrella\MAF\CV Knowledge Engine Accelerator\Code\Website\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\Razor\Views\Admin\Customize.cshtml.g.cs
+C:\Users\ahmedalm\OneDrive - Microsoft\FY22\Q1\Engagements\Umbrella\MAF\CV Knowledge Engine Accelerator\Code\Website\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\Razor\Views\Admin\NotAvailable.cshtml.g.cs
+C:\Users\ahmedalm\OneDrive - Microsoft\FY22\Q1\Engagements\Umbrella\MAF\CV Knowledge Engine Accelerator\Code\Website\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\Razor\Views\Admin\UploadData.cshtml.g.cs
+C:\Users\ahmedalm\OneDrive - Microsoft\FY22\Q1\Engagements\Umbrella\MAF\CV Knowledge Engine Accelerator\Code\Website\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ahmedalm\OneDrive - Microsoft\FY22\Q1\Engagements\Umbrella\MAF\CV Knowledge Engine Accelerator\Code\Website\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\Razor\Views\Home\Search.cshtml.g.cs
+C:\Users\ahmedalm\OneDrive - Microsoft\FY22\Q1\Engagements\Umbrella\MAF\CV Knowledge Engine Accelerator\Code\Website\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ahmedalm\OneDrive - Microsoft\FY22\Q1\Engagements\Umbrella\MAF\CV Knowledge Engine Accelerator\Code\Website\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\Razor\Views\Shared\_Footer.cshtml.g.cs
+C:\Users\ahmedalm\OneDrive - Microsoft\FY22\Q1\Engagements\Umbrella\MAF\CV Knowledge Engine Accelerator\Code\Website\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\Razor\Views\Shared\_Header.cshtml.g.cs
+C:\Users\ahmedalm\OneDrive - Microsoft\FY22\Q1\Engagements\Umbrella\MAF\CV Knowledge Engine Accelerator\Code\Website\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ahmedalm\OneDrive - Microsoft\FY22\Q1\Engagements\Umbrella\MAF\CV Knowledge Engine Accelerator\Code\Website\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ahmedalm\OneDrive - Microsoft\FY22\Q1\Engagements\Umbrella\MAF\CV Knowledge Engine Accelerator\Code\Website\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ahmedalm\OneDrive - Microsoft\FY22\Q1\Engagements\Umbrella\MAF\CV Knowledge Engine Accelerator\Code\Website\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ahmedalm\OneDrive - Microsoft\FY22\Q1\Engagements\Umbrella\MAF\CV Knowledge Engine Accelerator\Code\Website\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\CognitiveSearch.UI.RazorTargetAssemblyInfo.cache
+C:\Users\ahmedalm\OneDrive - Microsoft\FY22\Q1\Engagements\Umbrella\MAF\CV Knowledge Engine Accelerator\Code\Website\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\CognitiveSearch.UI.RazorTargetAssemblyInfo.cs
+C:\Users\ahmedalm\OneDrive - Microsoft\FY22\Q1\Engagements\Umbrella\MAF\CV Knowledge Engine Accelerator\Code\Website\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\CognitiveSearch.UI.Views.pdb
+C:\Users\ahmedalm\OneDrive - Microsoft\FY22\Q1\Engagements\Umbrella\MAF\CV Knowledge Engine Accelerator\Code\Website\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\CognitiveSearch.UI.csproj.CopyComplete
+C:\Users\ahmedalm\OneDrive - Microsoft\FY22\Q1\Engagements\Umbrella\MAF\CV Knowledge Engine Accelerator\Code\Website\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\CognitiveSearch.UI.dll
+C:\Users\ahmedalm\OneDrive - Microsoft\FY22\Q1\Engagements\Umbrella\MAF\CV Knowledge Engine Accelerator\Code\Website\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\CognitiveSearch.UI.pdb
+C:\Users\ahmedalm\OneDrive - Microsoft\FY22\Q1\Engagements\Umbrella\MAF\CV Knowledge Engine Accelerator\Code\Website\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\CognitiveSearch.UI.genruntimeconfig.cache
+C:\Users\ahmedalm\Desktop\02 - Web UI Template\CognitiveSearch.UI\bin\Release\netcoreapp3.1\appsettings.Development.json
+C:\Users\ahmedalm\Desktop\02 - Web UI Template\CognitiveSearch.UI\bin\Release\netcoreapp3.1\bundleconfig.json
+C:\Users\ahmedalm\Desktop\02 - Web UI Template\CognitiveSearch.UI\bin\Release\netcoreapp3.1\appsettings.json
+C:\Users\ahmedalm\Desktop\02 - Web UI Template\CognitiveSearch.UI\bin\Release\netcoreapp3.1\CognitiveSearch.UI.exe
+C:\Users\ahmedalm\Desktop\02 - Web UI Template\CognitiveSearch.UI\bin\Release\netcoreapp3.1\CognitiveSearch.UI.deps.json
+C:\Users\ahmedalm\Desktop\02 - Web UI Template\CognitiveSearch.UI\bin\Release\netcoreapp3.1\CognitiveSearch.UI.runtimeconfig.json
+C:\Users\ahmedalm\Desktop\02 - Web UI Template\CognitiveSearch.UI\bin\Release\netcoreapp3.1\CognitiveSearch.UI.runtimeconfig.dev.json
+C:\Users\ahmedalm\Desktop\02 - Web UI Template\CognitiveSearch.UI\bin\Release\netcoreapp3.1\CognitiveSearch.UI.dll
+C:\Users\ahmedalm\Desktop\02 - Web UI Template\CognitiveSearch.UI\bin\Release\netcoreapp3.1\CognitiveSearch.UI.pdb
+C:\Users\ahmedalm\Desktop\02 - Web UI Template\CognitiveSearch.UI\bin\Release\netcoreapp3.1\CognitiveSearch.UI.Views.dll
+C:\Users\ahmedalm\Desktop\02 - Web UI Template\CognitiveSearch.UI\bin\Release\netcoreapp3.1\CognitiveSearch.UI.Views.pdb
+C:\Users\ahmedalm\Desktop\02 - Web UI Template\CognitiveSearch.UI\bin\Release\netcoreapp3.1\Azure.Core.dll
+C:\Users\ahmedalm\Desktop\02 - Web UI Template\CognitiveSearch.UI\bin\Release\netcoreapp3.1\Azure.Search.Documents.dll
+C:\Users\ahmedalm\Desktop\02 - Web UI Template\CognitiveSearch.UI\bin\Release\netcoreapp3.1\Azure.Storage.Blobs.dll
+C:\Users\ahmedalm\Desktop\02 - Web UI Template\CognitiveSearch.UI\bin\Release\netcoreapp3.1\Azure.Storage.Common.dll
+C:\Users\ahmedalm\Desktop\02 - Web UI Template\CognitiveSearch.UI\bin\Release\netcoreapp3.1\Microsoft.ApplicationInsights.dll
+C:\Users\ahmedalm\Desktop\02 - Web UI Template\CognitiveSearch.UI\bin\Release\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ahmedalm\Desktop\02 - Web UI Template\CognitiveSearch.UI\bin\Release\netcoreapp3.1\Microsoft.Spatial.dll
+C:\Users\ahmedalm\Desktop\02 - Web UI Template\CognitiveSearch.UI\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.BrowserLink.dll
+C:\Users\ahmedalm\Desktop\02 - Web UI Template\CognitiveSearch.UI\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ahmedalm\Desktop\02 - Web UI Template\CognitiveSearch.UI\bin\Release\netcoreapp3.1\System.Text.Json.dll
+C:\Users\ahmedalm\Desktop\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\CognitiveSearch.UI.csproj.AssemblyReference.cache
+C:\Users\ahmedalm\Desktop\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\CognitiveSearch.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmedalm\Desktop\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\CognitiveSearch.UI.AssemblyInfoInputs.cache
+C:\Users\ahmedalm\Desktop\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\CognitiveSearch.UI.AssemblyInfo.cs
+C:\Users\ahmedalm\Desktop\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\CognitiveSearch.UI.csproj.CoreCompileInputs.cache
+C:\Users\ahmedalm\Desktop\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\CognitiveSearch.UI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ahmedalm\Desktop\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\CognitiveSearch.UI.RazorAssemblyInfo.cache
+C:\Users\ahmedalm\Desktop\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\CognitiveSearch.UI.RazorAssemblyInfo.cs
+C:\Users\ahmedalm\Desktop\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\staticwebassets\CognitiveSearch.UI.StaticWebAssets.Manifest.cache
+C:\Users\ahmedalm\Desktop\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\staticwebassets\CognitiveSearch.UI.StaticWebAssets.xml
+C:\Users\ahmedalm\Desktop\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\scopedcss\bundle\CognitiveSearch.UI.styles.css
+C:\Users\ahmedalm\Desktop\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\CognitiveSearch.UI.TagHelpers.input.cache
+C:\Users\ahmedalm\Desktop\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\CognitiveSearch.UI.TagHelpers.output.cache
+C:\Users\ahmedalm\Desktop\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\CognitiveSearch.UI.RazorCoreGenerate.cache
+C:\Users\ahmedalm\Desktop\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\Razor\Views\Admin\Customize.cshtml.g.cs
+C:\Users\ahmedalm\Desktop\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\Razor\Views\Admin\NotAvailable.cshtml.g.cs
+C:\Users\ahmedalm\Desktop\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\Razor\Views\Admin\UploadData.cshtml.g.cs
+C:\Users\ahmedalm\Desktop\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ahmedalm\Desktop\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\Razor\Views\Home\Search.cshtml.g.cs
+C:\Users\ahmedalm\Desktop\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ahmedalm\Desktop\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\Razor\Views\Shared\_Footer.cshtml.g.cs
+C:\Users\ahmedalm\Desktop\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\Razor\Views\Shared\_Header.cshtml.g.cs
+C:\Users\ahmedalm\Desktop\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ahmedalm\Desktop\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ahmedalm\Desktop\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ahmedalm\Desktop\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ahmedalm\Desktop\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\CognitiveSearch.UI.RazorTargetAssemblyInfo.cache
+C:\Users\ahmedalm\Desktop\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\CognitiveSearch.UI.RazorTargetAssemblyInfo.cs
+C:\Users\ahmedalm\Desktop\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\CognitiveSearch.UI.Views.pdb
+C:\Users\ahmedalm\Desktop\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\CognitiveSearch.UI.csproj.CopyComplete
+C:\Users\ahmedalm\Desktop\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\CognitiveSearch.UI.dll
+C:\Users\ahmedalm\Desktop\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\CognitiveSearch.UI.pdb
+C:\Users\ahmedalm\Desktop\02 - Web UI Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\CognitiveSearch.UI.genruntimeconfig.cache
+C:\Users\ahmedalm\OneDrive - Microsoft\FY22\Q2\Projects\CV KM DEMO\Website\Template\CognitiveSearch.UI\bin\Release\netcoreapp3.1\appsettings.Development.json
+C:\Users\ahmedalm\OneDrive - Microsoft\FY22\Q2\Projects\CV KM DEMO\Website\Template\CognitiveSearch.UI\bin\Release\netcoreapp3.1\bundleconfig.json
+C:\Users\ahmedalm\OneDrive - Microsoft\FY22\Q2\Projects\CV KM DEMO\Website\Template\CognitiveSearch.UI\bin\Release\netcoreapp3.1\appsettings.json
+C:\Users\ahmedalm\OneDrive - Microsoft\FY22\Q2\Projects\CV KM DEMO\Website\Template\CognitiveSearch.UI\bin\Release\netcoreapp3.1\CognitiveSearch.UI.exe
+C:\Users\ahmedalm\OneDrive - Microsoft\FY22\Q2\Projects\CV KM DEMO\Website\Template\CognitiveSearch.UI\bin\Release\netcoreapp3.1\CognitiveSearch.UI.deps.json
+C:\Users\ahmedalm\OneDrive - Microsoft\FY22\Q2\Projects\CV KM DEMO\Website\Template\CognitiveSearch.UI\bin\Release\netcoreapp3.1\CognitiveSearch.UI.runtimeconfig.json
+C:\Users\ahmedalm\OneDrive - Microsoft\FY22\Q2\Projects\CV KM DEMO\Website\Template\CognitiveSearch.UI\bin\Release\netcoreapp3.1\CognitiveSearch.UI.runtimeconfig.dev.json
+C:\Users\ahmedalm\OneDrive - Microsoft\FY22\Q2\Projects\CV KM DEMO\Website\Template\CognitiveSearch.UI\bin\Release\netcoreapp3.1\CognitiveSearch.UI.dll
+C:\Users\ahmedalm\OneDrive - Microsoft\FY22\Q2\Projects\CV KM DEMO\Website\Template\CognitiveSearch.UI\bin\Release\netcoreapp3.1\CognitiveSearch.UI.pdb
+C:\Users\ahmedalm\OneDrive - Microsoft\FY22\Q2\Projects\CV KM DEMO\Website\Template\CognitiveSearch.UI\bin\Release\netcoreapp3.1\CognitiveSearch.UI.Views.dll
+C:\Users\ahmedalm\OneDrive - Microsoft\FY22\Q2\Projects\CV KM DEMO\Website\Template\CognitiveSearch.UI\bin\Release\netcoreapp3.1\CognitiveSearch.UI.Views.pdb
+C:\Users\ahmedalm\OneDrive - Microsoft\FY22\Q2\Projects\CV KM DEMO\Website\Template\CognitiveSearch.UI\bin\Release\netcoreapp3.1\Azure.Core.dll
+C:\Users\ahmedalm\OneDrive - Microsoft\FY22\Q2\Projects\CV KM DEMO\Website\Template\CognitiveSearch.UI\bin\Release\netcoreapp3.1\Azure.Search.Documents.dll
+C:\Users\ahmedalm\OneDrive - Microsoft\FY22\Q2\Projects\CV KM DEMO\Website\Template\CognitiveSearch.UI\bin\Release\netcoreapp3.1\Azure.Storage.Blobs.dll
+C:\Users\ahmedalm\OneDrive - Microsoft\FY22\Q2\Projects\CV KM DEMO\Website\Template\CognitiveSearch.UI\bin\Release\netcoreapp3.1\Azure.Storage.Common.dll
+C:\Users\ahmedalm\OneDrive - Microsoft\FY22\Q2\Projects\CV KM DEMO\Website\Template\CognitiveSearch.UI\bin\Release\netcoreapp3.1\Microsoft.ApplicationInsights.dll
+C:\Users\ahmedalm\OneDrive - Microsoft\FY22\Q2\Projects\CV KM DEMO\Website\Template\CognitiveSearch.UI\bin\Release\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ahmedalm\OneDrive - Microsoft\FY22\Q2\Projects\CV KM DEMO\Website\Template\CognitiveSearch.UI\bin\Release\netcoreapp3.1\Microsoft.Spatial.dll
+C:\Users\ahmedalm\OneDrive - Microsoft\FY22\Q2\Projects\CV KM DEMO\Website\Template\CognitiveSearch.UI\bin\Release\netcoreapp3.1\Microsoft.VisualStudio.Web.BrowserLink.dll
+C:\Users\ahmedalm\OneDrive - Microsoft\FY22\Q2\Projects\CV KM DEMO\Website\Template\CognitiveSearch.UI\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ahmedalm\OneDrive - Microsoft\FY22\Q2\Projects\CV KM DEMO\Website\Template\CognitiveSearch.UI\bin\Release\netcoreapp3.1\System.Text.Json.dll
+C:\Users\ahmedalm\OneDrive - Microsoft\FY22\Q2\Projects\CV KM DEMO\Website\Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\CognitiveSearch.UI.csproj.AssemblyReference.cache
+C:\Users\ahmedalm\OneDrive - Microsoft\FY22\Q2\Projects\CV KM DEMO\Website\Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\CognitiveSearch.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmedalm\OneDrive - Microsoft\FY22\Q2\Projects\CV KM DEMO\Website\Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\CognitiveSearch.UI.AssemblyInfoInputs.cache
+C:\Users\ahmedalm\OneDrive - Microsoft\FY22\Q2\Projects\CV KM DEMO\Website\Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\CognitiveSearch.UI.AssemblyInfo.cs
+C:\Users\ahmedalm\OneDrive - Microsoft\FY22\Q2\Projects\CV KM DEMO\Website\Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\CognitiveSearch.UI.csproj.CoreCompileInputs.cache
+C:\Users\ahmedalm\OneDrive - Microsoft\FY22\Q2\Projects\CV KM DEMO\Website\Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\CognitiveSearch.UI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ahmedalm\OneDrive - Microsoft\FY22\Q2\Projects\CV KM DEMO\Website\Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\CognitiveSearch.UI.RazorAssemblyInfo.cache
+C:\Users\ahmedalm\OneDrive - Microsoft\FY22\Q2\Projects\CV KM DEMO\Website\Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\CognitiveSearch.UI.RazorAssemblyInfo.cs
+C:\Users\ahmedalm\OneDrive - Microsoft\FY22\Q2\Projects\CV KM DEMO\Website\Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\staticwebassets\CognitiveSearch.UI.StaticWebAssets.Manifest.cache
+C:\Users\ahmedalm\OneDrive - Microsoft\FY22\Q2\Projects\CV KM DEMO\Website\Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\staticwebassets\CognitiveSearch.UI.StaticWebAssets.xml
+C:\Users\ahmedalm\OneDrive - Microsoft\FY22\Q2\Projects\CV KM DEMO\Website\Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\scopedcss\bundle\CognitiveSearch.UI.styles.css
+C:\Users\ahmedalm\OneDrive - Microsoft\FY22\Q2\Projects\CV KM DEMO\Website\Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\CognitiveSearch.UI.TagHelpers.input.cache
+C:\Users\ahmedalm\OneDrive - Microsoft\FY22\Q2\Projects\CV KM DEMO\Website\Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\CognitiveSearch.UI.TagHelpers.output.cache
+C:\Users\ahmedalm\OneDrive - Microsoft\FY22\Q2\Projects\CV KM DEMO\Website\Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\CognitiveSearch.UI.RazorCoreGenerate.cache
+C:\Users\ahmedalm\OneDrive - Microsoft\FY22\Q2\Projects\CV KM DEMO\Website\Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\Razor\Views\Admin\Customize.cshtml.g.cs
+C:\Users\ahmedalm\OneDrive - Microsoft\FY22\Q2\Projects\CV KM DEMO\Website\Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\Razor\Views\Admin\NotAvailable.cshtml.g.cs
+C:\Users\ahmedalm\OneDrive - Microsoft\FY22\Q2\Projects\CV KM DEMO\Website\Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\Razor\Views\Admin\UploadData.cshtml.g.cs
+C:\Users\ahmedalm\OneDrive - Microsoft\FY22\Q2\Projects\CV KM DEMO\Website\Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ahmedalm\OneDrive - Microsoft\FY22\Q2\Projects\CV KM DEMO\Website\Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\Razor\Views\Home\Search.cshtml.g.cs
+C:\Users\ahmedalm\OneDrive - Microsoft\FY22\Q2\Projects\CV KM DEMO\Website\Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ahmedalm\OneDrive - Microsoft\FY22\Q2\Projects\CV KM DEMO\Website\Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\Razor\Views\Shared\_Footer.cshtml.g.cs
+C:\Users\ahmedalm\OneDrive - Microsoft\FY22\Q2\Projects\CV KM DEMO\Website\Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\Razor\Views\Shared\_Header.cshtml.g.cs
+C:\Users\ahmedalm\OneDrive - Microsoft\FY22\Q2\Projects\CV KM DEMO\Website\Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ahmedalm\OneDrive - Microsoft\FY22\Q2\Projects\CV KM DEMO\Website\Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ahmedalm\OneDrive - Microsoft\FY22\Q2\Projects\CV KM DEMO\Website\Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ahmedalm\OneDrive - Microsoft\FY22\Q2\Projects\CV KM DEMO\Website\Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ahmedalm\OneDrive - Microsoft\FY22\Q2\Projects\CV KM DEMO\Website\Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\CognitiveSearch.UI.RazorTargetAssemblyInfo.cache
+C:\Users\ahmedalm\OneDrive - Microsoft\FY22\Q2\Projects\CV KM DEMO\Website\Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\CognitiveSearch.UI.RazorTargetAssemblyInfo.cs
+C:\Users\ahmedalm\OneDrive - Microsoft\FY22\Q2\Projects\CV KM DEMO\Website\Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\CognitiveSearch.UI.Views.pdb
+C:\Users\ahmedalm\OneDrive - Microsoft\FY22\Q2\Projects\CV KM DEMO\Website\Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\CognitiveSearch.UI.dll
+C:\Users\ahmedalm\OneDrive - Microsoft\FY22\Q2\Projects\CV KM DEMO\Website\Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\CognitiveSearch.UI.pdb
+C:\Users\ahmedalm\OneDrive - Microsoft\FY22\Q2\Projects\CV KM DEMO\Website\Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\CognitiveSearch.UI.genruntimeconfig.cache
+C:\Users\ahmedalm\OneDrive - Microsoft\FY22\Q2\Projects\CV KM DEMO\Website\Template\CognitiveSearch.UI\obj\Release\netcoreapp3.1\CognitiveSearch.UI.csproj.CopyComplete
