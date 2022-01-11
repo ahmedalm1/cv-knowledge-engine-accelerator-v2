@@ -6,7 +6,7 @@ The CV Knowledge Engine solution accelerator aims to provides a quick way of cre
 > #### Note
 > 
 > This is an updated version of the CV Knowledge Engine Solution Accelerator.
-> You can find the older version here ([CV Knowledge Engine Solution Accelerator V1](https://github.com/AhmedAlmu/cv-knowledge-engine-accelerator))
+> You can find the older version here ([CV Knowledge Engine Solution Accelerator](https://github.com/AhmedAlmu/cv-knowledge-engine-accelerator))
 
 ## Business Use Case 
 The process of screening and searching through CV documents submitted by job seekers is a long and a costly one, where the recruiting teams usually have to go through each submitted CV manually, to find the best candidates suited for the job opening. This accelerator will help extract the essential information from CVs and resumes, and simplify the process of searching and filtering through applicants, which will significantly reduce costs and time-to-insights. 
