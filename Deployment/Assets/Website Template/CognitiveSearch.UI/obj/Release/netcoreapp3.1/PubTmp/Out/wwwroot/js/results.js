@@ -212,39 +212,12 @@ function UpdateResults(data) {
         var title;
         var content;
 
-        /*
-        content = " ";
-
-        if (document["Phone"] !== undefined && document["Phone"] !== null) {
-            content += `Phone Number: ${document.Phone[0]}. `;
-        }
-
-        if (document["Email"] !== undefined && document["Email"] !== null) {
-            content += `Email: ${document.Email[0]}. `;
-        }
-
-        if (document["LinkedIn"] !== undefined && document["LinkedIn"] !== null) {
-            content += `LinkedIn: ${document.LinkedIn[0]}. `;
-        }
-
-        if (document["Age_Group"] !== undefined && document["Age_Group"] !== null) {
-            content += `Age Group: ${document.Age_Group}. `;
-        }
-
-        if (document["Experience"] !== undefined && document["Experience"] !== null) {
-            content += `Years of Experience: ${document.Experience}. `;
-        }
-        */
-
         if (document["Phone"] !== undefined && document["Phone"] !== null) {
             content = `Phone Number: ${document.Phone[0]}. `;
             if (document["Email"] !== undefined && document["Email"] !== null) {
                 content += `Email: ${document.Email[0]}. `;
-                if (document["LinkedIn"] !== undefined && document["LinkedIn"] !== null) {
-                    content += `LinkedIn: ${document.LinkedIn[0]}. `;
-                    if (document["Experience"] !== undefined && document["Experience"] !== null) {
-                        content += `Years of Experience: ${document.Experience}. `;
-                    }
+                if (document["Experience"] !== undefined && document["Experience"] !== null) {
+                    content += `Experience: ${document.Experience}. `;
                 }
             }
         }

@@ -16,12 +16,9 @@ namespace CognitiveSearch.UI
             //"organizations",
             //"keyphrases"
 
-            "Age_Group",
-            "Gender",
             "Location",
             "Experience",
             "Qualification",
-            "University",
             "Previous_Role",
             "Skills",
             "Languages"
@@ -58,8 +55,6 @@ namespace CognitiveSearch.UI
             "Name",
             "Email",
             "Phone",
-            "LinkedIn",
-            "Age_Group",
             "Experience"
         };
 

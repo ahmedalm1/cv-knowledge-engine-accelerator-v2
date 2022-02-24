@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bN+oVS1fNuTpLkR+Z0JSyqGH5KjIeBLpA2dqlPcBByNAhrhh46S5EMmKNbNPtYZRxiLp8EoeUTxP6ABDz4ZYIA==",
+  "dgSpecHash": "+Su8kAU8umjTG8ptCqCLOyvevDT7a6FTOWgnLosZ+b+GM65oB3TnrnLFmlDvtt2zNVZl13ps5V4UHv+W8rGyCQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ahmedalm\\OneDrive - Microsoft\\FY22\\Q2\\Projects\\CV KM DEMO\\Website\\Template\\CognitiveSearch.UI\\CognitiveSearch.UI.csproj",
+  "projectFilePath": "C:\\Users\\ahmedalm\\Documents\\GitHub\\cv-knowledge-engine-accelerator-v2\\Deployment\\Assets\\Website Template\\CognitiveSearch.UI\\CognitiveSearch.UI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ahmedalm\\.nuget\\packages\\azure.core\\1.3.0\\azure.core.1.3.0.nupkg.sha512",
     "C:\\Users\\ahmedalm\\.nuget\\packages\\azure.search.documents\\11.0.0\\azure.search.documents.11.0.0.nupkg.sha512",
