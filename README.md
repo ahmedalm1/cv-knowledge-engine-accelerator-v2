@@ -48,9 +48,8 @@ Using the provided web app template, a search engine interface can be created to
 #### Home Page
 ![Home Page](https://user-images.githubusercontent.com/88718044/147383789-6b88bf5f-69e9-4bc9-bc08-3121af43cabc.png)
 
-
 #### Search Results
-
+![Search Results](https://user-images.githubusercontent.com/88718044/155551827-9d079345-3f58-4d8a-a6de-3e9e67f75533.png)
 
 ### Power BI Report
 Using the provided Power BI report template, a high-level dashboard can be created to display the information extracted from CVs. 
