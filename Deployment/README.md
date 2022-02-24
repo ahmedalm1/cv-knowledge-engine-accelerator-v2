@@ -3,21 +3,21 @@ Deploying the accelerator can be done in seven simple steps, that cover every as
 
 ## Prerequisites
 In order to deploy the accelerator, clone or download this repository, and make sure the following requirements are met:
-- Azure Subscription 
-- Postman Software
+- Azure Subscription  
 - Visual Studio 2019 or later
-- VS Code with Azure Functions extension
+- VS Code - with Azure Functions extension
+- Postman 
 - Sample CV documents 
 
 ## Step 0: Deploy the resources
 Using the provided ARM template, create all the required Azure resources by clicking on this button: 
 
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FAhmedAlmu%2Fcv-knowledge-engine-accelerator-v2%2Fmain%2FAssets%2FARM%2520Template%2Ftemplate.json)
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/)
 
 ## Step 1: Setup the Environemnt 
 After deploying the resources successfully, navigate to the newly created Storage Account in Azure, and upload the sample documents in a new blob container.
 
-The sample documents can be found in [Assets/Sample Documents](https://github.com/AhmedAlmu/cv-knowledge-engine-accelerator/tree/main/Assets/Sample%20Documents) folder. 
+The sample documents can be found in [Assets/Sample Documents]() folder. 
 
 Next, navigate to the folder [Assets/Postman Script](https://github.com/AhmedAlmu/cv-knowledge-engine-accelerator/tree/main/Assets/Postman%20Script) to find the Postman collection that will be used to create the Search Service elements. 
 
