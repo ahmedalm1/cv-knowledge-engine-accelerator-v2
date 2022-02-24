@@ -57,6 +57,9 @@ Using the provided Power BI report template, a high-level dashboard can be creat
 #### Dashboard
 ![Dashboard](https://user-images.githubusercontent.com/88718044/155554049-872bd577-910d-444b-8580-b3a8905f2f39.png)
 
+## Deployment 
+To deploy this solution accelerator, navigate to the [Deployment](https://github.com/ahmedalm1/cv-knowledge-engine-accelerator-v2/tree/main/Deployment) page and follow the simple steps. 
+
 ## References 
 This accelerator was built as a continuation of the Knowledge Mining Solution Accelerator. 
 You can find the original project here ([Knowledge Mining Solution Accelerator](https://github.com/Azure-Samples/azure-search-knowledge-mining))
