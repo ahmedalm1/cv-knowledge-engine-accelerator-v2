@@ -1,0 +1,271 @@
+{
+	"info": {
+		"_postman_id": "1156f0f1-0c63-439a-aee8-ba229977abdd",
+		"name": "CV KM DEMO V2",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Create Datasource",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "api-key",
+						"value": "{{admin-key}}",
+						"type": "text"
+					},
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"name\": \"{{datasource-name}}\",\n    \"description\": \"\",\n    \"type\": \"azureblob\",\n    \"credentials\": {\n        \"connectionString\": \"{{storage-connection-string}}\"\n    },\n    \"container\": {\n        \"name\": \"{{storage-container-name}}\",\n        \"query\": \"{{storage-container-folder}}\"\n    }\n}"
+				},
+				"url": {
+					"raw": "https://{{search-service-name}}.search.windows.net/datasources?api-version={{api-version}}",
+					"protocol": "https",
+					"host": [
+						"{{search-service-name}}",
+						"search",
+						"windows",
+						"net"
+					],
+					"path": [
+						"datasources"
+					],
+					"query": [
+						{
+							"key": "api-version",
+							"value": "{{api-version}}"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Create Index",
+			"request": {
+				"method": "PUT",
+				"header": [
+					{
+						"key": "api-key",
+						"type": "text",
+						"value": "{{admin-key}}"
+					},
+					{
+						"key": "Content-Type",
+						"type": "text",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"name\": \"{{index-name}}\",\r\n    \"fields\": [\r\n        {\r\n            \"name\": \"metadata_storage_path\",\r\n            \"type\": \"Edm.String\",\r\n            \"key\": true,\r\n            \"searchable\": true,\r\n            \"sortable\": true,\r\n            \"filterable\": false,\r\n            \"facetable\": false\r\n        },\r\n        {\r\n            \"name\": \"url\",\r\n            \"type\": \"Edm.String\",\r\n            \"searchable\": true,\r\n            \"sortable\": false,\r\n            \"filterable\": false,\r\n            \"facetable\": false\r\n        },\r\n        {\r\n            \"name\": \"metadata_storage_name\",\r\n            \"type\": \"Edm.String\",\r\n            \"searchable\": true,\r\n            \"sortable\": true,\r\n            \"filterable\": false,\r\n            \"facetable\": false\r\n        },\r\n        {\r\n            \"name\": \"size\",\r\n            \"type\": \"Edm.Int64\",\r\n            \"searchable\": false,\r\n            \"sortable\": true,\r\n            \"filterable\": false,\r\n            \"facetable\": false\r\n        },\r\n        {\r\n            \"name\": \"content\",\r\n            \"type\": \"Edm.String\",\r\n            \"searchable\": true,\r\n            \"sortable\": false,\r\n            \"filterable\": false,\r\n            \"facetable\": false\r\n        },\r\n        {\r\n            \"name\": \"Name\",\r\n            \"type\": \"Collection(Edm.String)\",\r\n            \"searchable\": true,\r\n            \"sortable\": false,\r\n            \"filterable\": false,\r\n            \"facetable\": false\r\n        },\r\n        {\r\n            \"name\": \"Email\",\r\n            \"type\": \"Collection(Edm.String)\",\r\n            \"searchable\": true,\r\n            \"sortable\": false,\r\n            \"filterable\": false,\r\n            \"facetable\": false\r\n        },\r\n        {\r\n            \"name\": \"Phone\",\r\n            \"type\": \"Collection(Edm.String)\",\r\n            \"searchable\": true,\r\n            \"sortable\": false,\r\n            \"filterable\": false,\r\n            \"facetable\": false\r\n        },\r\n        {\r\n            \"name\": \"Links\",\r\n            \"type\": \"Collection(Edm.String)\",\r\n            \"searchable\": true,\r\n            \"sortable\": false,\r\n            \"filterable\": false,\r\n            \"facetable\": false\r\n        },\r\n        {\r\n            \"name\": \"Location\",\r\n            \"type\": \"Collection(Edm.String)\",\r\n            \"searchable\": true,\r\n            \"sortable\": false,\r\n            \"filterable\": true,\r\n            \"facetable\": true\r\n        },\r\n        {\r\n            \"name\": \"Experience\",\r\n            \"type\": \"Edm.String\",\r\n            \"searchable\": true,\r\n            \"sortable\": true,\r\n            \"filterable\": true,\r\n            \"facetable\": true\r\n        },\r\n        {\r\n            \"name\": \"Qualification\",\r\n            \"type\": \"Collection(Edm.String)\",\r\n            \"searchable\": true,\r\n            \"sortable\": false,\r\n            \"filterable\": true,\r\n            \"facetable\": true\r\n        },\r\n        {\r\n            \"name\": \"Previous_Role\",\r\n            \"type\": \"Collection(Edm.String)\",\r\n            \"searchable\": true,\r\n            \"sortable\": false,\r\n            \"filterable\": true,\r\n            \"facetable\": true\r\n        },\r\n        {\r\n            \"name\": \"Skills\",\r\n            \"type\": \"Collection(Edm.String)\",\r\n            \"searchable\": true,\r\n            \"sortable\": false,\r\n            \"filterable\": true,\r\n            \"facetable\": true\r\n        },\r\n        {\r\n            \"name\": \"Languages\",\r\n            \"type\": \"Collection(Edm.String)\",\r\n            \"searchable\": true,\r\n            \"sortable\": false,\r\n            \"filterable\": true,\r\n            \"facetable\": true\r\n        },\r\n        {\r\n            \"name\": \"Key_Phrases\",\r\n            \"type\": \"Collection(Edm.String)\",\r\n            \"searchable\": true,\r\n            \"sortable\": false,\r\n            \"filterable\": false,\r\n            \"facetable\": false\r\n        }\r\n    ]\r\n}"
+				},
+				"url": {
+					"raw": "https://{{search-service-name}}.search.windows.net/indexes/{{index-name}}?api-version={{api-version}}",
+					"protocol": "https",
+					"host": [
+						"{{search-service-name}}",
+						"search",
+						"windows",
+						"net"
+					],
+					"path": [
+						"indexes",
+						"{{index-name}}"
+					],
+					"query": [
+						{
+							"key": "api-version",
+							"value": "{{api-version}}"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Create Skillset",
+			"request": {
+				"method": "PUT",
+				"header": [
+					{
+						"key": "api-key",
+						"value": "{{admin-key}}",
+						"type": "text"
+					},
+					{
+						"key": "Content-Type",
+						"name": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"name\": \"{{skillset-name}}\",\n    \"cognitiveServices\": {\n        \"@odata.type\": \"#Microsoft.Azure.Search.CognitiveServicesByKey\",\n        \"key\": \"{{cognative-key}}\"\n    },\n    \"skills\": [\n        {\n            \"@odata.type\": \"#Microsoft.Skills.Vision.OcrSkill\",\n            \"context\": \"/document/normalized_images/*\",\n            \"defaultLanguageCode\": \"en\",\n            \"detectOrientation\": true,\n            \"inputs\": [\n                {\n                    \"name\": \"image\",\n                    \"source\": \"/document/normalized_images/*\"\n                }\n            ],\n            \"outputs\": [\n                {\n                    \"name\": \"text\"\n                }\n            ]\n        },\n        {\n            \"@odata.type\": \"#Microsoft.Skills.Text.MergeSkill\",\n            \"context\": \"/document\",\n            \"insertPreTag\": \" \",\n            \"insertPostTag\": \" \",\n            \"inputs\": [\n                {\n                    \"name\": \"itemsToInsert\",\n                    \"source\": \"/document/normalized_images/*/text\"\n                }\n            ],\n            \"outputs\": [\n                {\n                    \"name\": \"mergedText\"\n                }\n            ]\n        },\n        {\n            \"@odata.type\": \"#Microsoft.Skills.Text.V3.EntityRecognitionSkill\",\n            \"context\": \"/document\",\n            \"categories\": [\n                \"Person\",\n                \"Email\",\n                \"PhoneNumber\",\n                \"Location\",\n                \"URL\",\n                \"Skill\"\n            ],\n            \"defaultLanguageCode\": \"en\",\n            \"minimumPrecision\": 0.75,\n            \"inputs\": [\n                {\n                    \"name\": \"text\",\n                    \"source\": \"/document/mergedText\"\n                }\n            ],\n            \"outputs\": [\n                {\n                    \"name\": \"persons\",\n                    \"targetName\": \"names\"\n                },\n                {\n                    \"name\": \"emails\",\n                    \"targetName\": \"emails\"\n                },\n                {\n                    \"name\": \"phoneNumbers\",\n                    \"targetName\": \"numbers\"\n                },\n                {\n                    \"name\": \"locations\",\n                    \"targetName\": \"locations\"\n                },\n                {\n                    \"name\": \"urls\",\n                    \"targetName\": \"links\"\n                },\n                {\n                    \"name\": \"skills\",\n                    \"targetName\": \"skills\"\n                }\n            ]\n        },\n        {\n            \"@odata.type\": \"#Microsoft.Skills.Custom.WebApiSkill\",\n            \"uri\": \"{{function-url-experience}}\",\n            \"httpMethod\": \"POST\",\n            \"timeout\": \"PT30S\",\n            \"context\": \"/document\",\n            \"batchSize\": 1,\n            \"inputs\": [\n                {\n                    \"name\": \"text\",\n                    \"source\": \"/document/mergedText\"\n                }\n            ],\n            \"outputs\": [\n                {\n                    \"name\": \"text\",\n                    \"targetName\": \"experience\"\n                }\n            ]\n        },\n        {\n            \"@odata.type\": \"#Microsoft.Skills.Text.CustomEntityLookupSkill\",\n            \"context\": \"/document\",\n            \"entitiesDefinitionUri\": \"{{lookup-table-qualifications}}\",\n            \"inputs\": [\n                {\n                    \"name\": \"text\",\n                    \"source\": \"/document/mergedText\"\n                }\n            ],\n            \"outputs\": [\n                {\n                    \"name\": \"entities\",\n                    \"targetName\": \"qualification\"\n                }\n            ]\n        },\n        {\n            \"@odata.type\": \"#Microsoft.Skills.Text.CustomEntityLookupSkill\",\n            \"context\": \"/document\",\n            \"entitiesDefinitionUri\": \"{{lookup-table-roles}}\",\n            \"inputs\": [\n                {\n                    \"name\": \"text\",\n                    \"source\": \"/document/mergedText\"\n                }\n            ],\n            \"outputs\": [\n                {\n                    \"name\": \"entities\",\n                    \"targetName\": \"previous_role\"\n                }\n            ]\n        },\n        {\n            \"@odata.type\": \"#Microsoft.Skills.Text.CustomEntityLookupSkill\",\n            \"context\": \"/document\",\n            \"entitiesDefinitionUri\": \"{{lookup-table-languages}}\",\n            \"inputs\": [\n                {\n                    \"name\": \"text\",\n                    \"source\": \"/document/mergedText\"\n                }\n            ],\n            \"outputs\": [\n                {\n                    \"name\": \"entities\",\n                    \"targetName\": \"languages\"\n                }\n            ]\n        },\n        {\n            \"@odata.type\": \"#Microsoft.Skills.Text.KeyPhraseExtractionSkill\",\n            \"context\": \"/document\",\n            \"defaultLanguageCode\": \"en\",\n            \"maxKeyPhraseCount\": 15,\n            \"inputs\": [\n                {\n                    \"name\": \"text\",\n                    \"source\": \"/document/mergedText\"\n                }\n            ],\n            \"outputs\": [\n                {\n                    \"name\": \"keyPhrases\"\n                }\n            ]\n        },\n        {\n            \"@odata.type\": \"#Microsoft.Skills.Util.ShaperSkill\",\n            \"context\": \"/document\",\n            \"inputs\": [\n                {\n                    \"name\": \"document_id\",\n                    \"source\": \"/document/metadata_storage_path\"\n                },\n                {\n                    \"name\": \"document_name\",\n                    \"source\": \"/document/metadata_storage_name\"\n                },\n                {\n                    \"name\": \"document_content\",\n                    \"source\": \"/document/mergedText\"\n                },\n                {\n                    \"name\": \"names\",\n                    \"source\": \"/document/names\"\n                },\n                {\n                    \"name\": \"emails\",\n                    \"source\": \"/document/emails\"\n                },\n                {\n                    \"name\": \"numbers\",\n                    \"source\": \"/document/numbers\"\n                },\n                {\n                    \"name\": \"links\",\n                    \"source\": \"/document/links\"\n                },\n                {\n                    \"name\": \"locations\",\n                    \"source\": \"/document/locations\"\n                },\n                {\n                    \"name\": \"experience\",\n                    \"source\": \"/document/experience\"\n                },\n                {\n                    \"name\": \"qualification\",\n                    \"source\": \"/document/qualification/*/name\"\n                },\n                {\n                    \"name\": \"previous_role\",\n                    \"source\": \"/document/previous_role/*/name\"\n                },\n                {\n                    \"name\": \"skills\",\n                    \"source\": \"/document/skills\"\n                },\n                {\n                    \"name\": \"languages\",\n                    \"source\": \"/document/languages/*/name\"\n                },\n                {\n                    \"name\": \"key_phrases\",\n                    \"source\": \"/document/keyPhrases/*\"\n                }\n            ],\n            \"outputs\": [\n                {\n                    \"name\": \"output\",\n                    \"targetName\": \"tableprojection\"\n                }\n            ]\n        }\n    ],\n    \"knowledgeStore\": {\n        \"storageConnectionString\": \"{{storage-connection-string}}\",\n        \"projections\": [\n            {\n                \"tables\": [\n                    {\n                        \"tableName\": \"DocumentInfoTable\",\n                        \"generatedKeyName\": \"DocumentID\",\n                        \"sourceContext\": \"/document\",\n                        \"inputs\": [\n                            {\n                                \"name\": \"document_id\",\n                                \"source\": \"/document/metadata_storage_path\"\n                            },\n                            {\n                                \"name\": \"document_name\",\n                                \"source\": \"/document/metadata_storage_name\"\n                            },\n                            {\n                                \"name\": \"document_content\",\n                                \"source\": \"/document/mergedText\"\n                            }\n                        ]\n                    },\n                    {\n                        \"tableName\": \"CVInfoTable\",\n                        \"generatedKeyName\": \"CVID\",\n                        \"sourceContext\": \"/document/tableprojection\",\n                        \"inputs\": [\n                            {\n                                \"name\": \"names\",\n                                \"source\": \"/document/tableprojection/names/*\"\n                            },\n                            {\n                                \"name\": \"emails\",\n                                \"source\": \"/document/tableprojection/emails/*\"\n                            },\n                            {\n                                \"name\": \"numbers\",\n                                \"source\": \"/document/tableprojection/numbers/*\"\n                            },\n                            {\n                                \"name\": \"links\",\n                                \"source\": \"/document/tableprojection/links/*\"\n                            },\n                            {\n                                \"name\": \"locations\",\n                                \"source\": \"/document/tableprojection/locations/*\"\n                            },\n                            {\n                                \"name\": \"experience\",\n                                \"source\": \"/document/tableprojection/experience\"\n                            },\n                            {\n                                \"name\": \"qualification\",\n                                \"source\": \"/document/tableprojection/qualification/*\"\n                            },\n                            {\n                                \"name\": \"previous_roles\",\n                                \"source\": \"/document/tableprojection/previous_roles/*\"\n                            },\n                            {\n                                \"name\": \"skills\",\n                                \"source\": \"/document/tableprojection/skills/*\"\n                            },\n                            {\n                                \"name\": \"languages\",\n                                \"source\": \"/document/tableprojection/languages/*\"\n                            },\n                            {\n                                \"name\": \"key_phrases\",\n                                \"source\": \"/document/tableprojection/key_phrases/*\"\n                            }\n                        ]\n                    },\n                    {\n                        \"tableName\": \"NamesTable\",\n                        \"generatedKeyName\": \"NamesID\",\n                        \"sourceContext\": \"/document/tableprojection/names/*\",\n                        \"inputs\": [\n                            {\n                                \"name\": \"names\",\n                                \"source\": \"/document/tableprojection/names/*\"\n                            }\n                        ]\n                    },\n                    {\n                        \"tableName\": \"EmailsTable\",\n                        \"generatedKeyName\": \"EmailsID\",\n                        \"sourceContext\": \"/document/tableprojection/emails/*\",\n                        \"inputs\": [\n                            {\n                                \"name\": \"emails\",\n                                \"source\": \"/document/tableprojection/emails/*\"\n                            }\n                        ]\n                    },\n                    {\n                        \"tableName\": \"PhoneNumbersTable\",\n                        \"generatedKeyName\": \"PhoneNumbersID\",\n                        \"sourceContext\": \"/document/tableprojection/numbers/*\",\n                        \"inputs\": [\n                            {\n                                \"name\": \"numbers\",\n                                \"source\": \"/document/tableprojection/numbers/*\"\n                            }\n                        ]\n                    },\n                    {\n                        \"tableName\": \"LinksTable\",\n                        \"generatedKeyName\": \"LinksID\",\n                        \"sourceContext\": \"/document/tableprojection/links/*\",\n                        \"inputs\": [\n                            {\n                                \"name\": \"links\",\n                                \"source\": \"/document/tableprojection/links/*\"\n                            }\n                        ]\n                    },\n                    {\n                        \"tableName\": \"LocationsTable\",\n                        \"generatedKeyName\": \"LocationsID\",\n                        \"sourceContext\": \"/document/tableprojection/locations/*\",\n                        \"inputs\": [\n                            {\n                                \"name\": \"locations\",\n                                \"source\": \"/document/tableprojection/locations/*\"\n                            }\n                        ]\n                    },\n                    {\n                        \"tableName\": \"ExperienceTable\",\n                        \"generatedKeyName\": \"ExperienceID\",\n                        \"sourceContext\": \"/document/tableprojection/experience\",\n                        \"inputs\": [\n                            {\n                                \"name\": \"experience\",\n                                \"source\": \"/document/tableprojection/experience\"\n                            }\n                        ]\n                    },\n                    {\n                        \"tableName\": \"QualificationsTable\",\n                        \"generatedKeyName\": \"QualificationsID\",\n                        \"sourceContext\": \"/document/tableprojection/qualification/*\",\n                        \"inputs\": [\n                            {\n                                \"name\": \"qualification\",\n                                \"source\": \"/document/tableprojection/qualification/*\"\n                            }\n                        ]\n                    },\n                    {\n                        \"tableName\": \"PreviousRolesTable\",\n                        \"generatedKeyName\": \"PreviousRolesID\",\n                        \"sourceContext\": \"/document/tableprojection/previous_roles/*\",\n                        \"inputs\": [\n                            {\n                                \"name\": \"previous_roles\",\n                                \"source\": \"/document/tableprojection/previous_roles/*\"\n                            }\n                        ]\n                    },\n                    {\n                        \"tableName\": \"SkillsTable\",\n                        \"generatedKeyName\": \"SkillsID\",\n                        \"sourceContext\": \"/document/tableprojection/skills/*\",\n                        \"inputs\": [\n                            {\n                                \"name\": \"skills\",\n                                \"source\": \"/document/tableprojection/skills/*\"\n                            }\n                        ]\n                    },\n                    {\n                        \"tableName\": \"LanguagesTable\",\n                        \"generatedKeyName\": \"LanguagesID\",\n                        \"sourceContext\": \"/document/tableprojection/languages/*\",\n                        \"inputs\": [\n                            {\n                                \"name\": \"languages\",\n                                \"source\": \"/document/tableprojection/languages/*\"\n                            }\n                        ]\n                    },\n                    {\n                        \"tableName\": \"KeyPhrasesTable\",\n                        \"generatedKeyName\": \"KeyPhrasesID\",\n                        \"sourceContext\": \"/document/tableprojection/key_phrases/*\",\n                        \"inputs\": [\n                            {\n                                \"name\": \"key_phrases\",\n                                \"source\": \"/document/tableprojection/key_phrases/*\"\n                            }\n                        ]\n                    }\n                ],\n                \"objects\": [],\n                \"files\": []\n            }\n        ]\n    }\n}"
+				},
+				"url": {
+					"raw": "https://{{search-service-name}}.search.windows.net/skillsets/{{skillset-name}}?api-version={{api-version}}",
+					"protocol": "https",
+					"host": [
+						"{{search-service-name}}",
+						"search",
+						"windows",
+						"net"
+					],
+					"path": [
+						"skillsets",
+						"{{skillset-name}}"
+					],
+					"query": [
+						{
+							"key": "api-version",
+							"value": "{{api-version}}"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Create Indexer",
+			"request": {
+				"method": "PUT",
+				"header": [
+					{
+						"key": "api-key",
+						"value": "{{admin-key}}",
+						"type": "text"
+					},
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"name\": \"{{indexer-name}}\",\n    \"dataSourceName\": \"{{datasource-name}}\",\n    \"skillsetName\": \"{{skillset-name}}\",\n    \"targetIndexName\": \"{{index-name}}\",\n    \"parameters\": {\n        \"maxFailedItems\": -1,\n        \"maxFailedItemsPerBatch\": -1,\n        \"configuration\": {\n            \"dataToExtract\": \"contentAndMetadata\",\n            \"imageAction\": \"generateNormalizedImagePerPage\"\n        }\n    },\n    \"fieldMappings\": [\n        {\n            \"sourceFieldName\": \"metadata_storage_path\",\n            \"targetFieldName\": \"metadata_storage_path\",\n            \"mappingFunction\": {\n                \"name\": \"base64Encode\"\n            }\n        },\n        {\n            \"sourceFieldName\": \"metadata_storage_path\",\n            \"targetFieldName\": \"url\"\n        },\n        {\n            \"sourceFieldName\": \"metadata_storage_name\",\n            \"targetFieldName\": \"metadata_storage_name\"\n        },\n        {\n            \"sourceFieldName\": \"metadata_storage_size\",\n            \"targetFieldName\": \"size\"\n        }\n    ],\n    \"outputFieldMappings\": [\n        {\n            \"sourceFieldName\": \"/document/mergedText\",\n            \"targetFieldName\": \"content\"\n        },\n        {\n            \"sourceFieldName\": \"/document/names\",\n            \"targetFieldName\": \"Name\"\n        },\n        {\n            \"sourceFieldName\": \"/document/emails\",\n            \"targetFieldName\": \"Email\"\n        },\n        {\n            \"sourceFieldName\": \"/document/numbers\",\n            \"targetFieldName\": \"Phone\"\n        },\n        {\n            \"sourceFieldName\": \"/document/links\",\n            \"targetFieldName\": \"Links\"\n        },\n        {\n            \"sourceFieldName\": \"/document/locations\",\n            \"targetFieldName\": \"Location\"\n        },\n        {\n            \"sourceFieldName\": \"/document/experience\",\n            \"targetFieldName\": \"Experience\"\n        },\n        {\n            \"sourceFieldName\": \"/document/qualification/*/name\",\n            \"targetFieldName\": \"Qualification\"\n        },\n        {\n            \"sourceFieldName\": \"/document/previous_role/*/name\",\n            \"targetFieldName\": \"Previous_Role\"\n        },\n        {\n            \"sourceFieldName\": \"/document/skills\",\n            \"targetFieldName\": \"Skills\"\n        },\n        {\n            \"sourceFieldName\": \"/document/languages/*/name\",\n            \"targetFieldName\": \"Languages\"\n        },\n        {\n            \"sourceFieldName\": \"/document/keyPhrases/*\",\n            \"targetFieldName\": \"Key_Phrases\"\n        }\n    ]\n}"
+				},
+				"url": {
+					"raw": "https://{{search-service-name}}.search.windows.net/indexers/{{indexer-name}}?api-version={{api-version}}",
+					"protocol": "https",
+					"host": [
+						"{{search-service-name}}",
+						"search",
+						"windows",
+						"net"
+					],
+					"path": [
+						"indexers",
+						"{{indexer-name}}"
+					],
+					"query": [
+						{
+							"key": "api-version",
+							"value": "{{api-version}}"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		}
+	],
+	"variable": [
+		{
+			"key": "search-service-name",
+			"value": "<SEARCH_SERVICE_NAME>"
+		},
+		{
+			"key": "admin-key",
+			"value": "<SEARCH_SERVICE_ADMIN_KEY>"
+		},
+		{
+			"key": "cognative-key",
+			"value": "<COGNATIVE_SERVICE_KEY>"
+		},
+		{
+			"key": "storage-account-name",
+			"value": "<STORAGE_ACCOUNT_NAME>"
+		},
+		{
+			"key": "storage-container-name",
+			"value": "<STORAGE_ACCOUNT_CONTAINER_NAME>"
+		},
+		{
+			"key": "storage-container-folder",
+			"value": "<STORAGE_CONTAINER_FOLDER_NAME>"
+		},
+		{
+			"key": "storage-connection-string",
+			"value": "<STORAGE_ACCOUNT_CONNECTION_STRING>"
+		},
+		{
+			"key": "datasource-name",
+			"value": "<DATASOURCE_NAME>"
+		},
+		{
+			"key": "index-name",
+			"value": "<INDEX_NAME>"
+		},
+		{
+			"key": "skillset-name",
+			"value": "<SKILLSET_NAME>"
+		},
+		{
+			"key": "indexer-name",
+			"value": "<INDEXER_NAME>"
+		},
+		{
+			"key": "api-version",
+			"value": "2020-06-30"
+		},
+		{
+			"key": "function-url-experience",
+			"value": "<CUSTOM_SKILL_URL_EXP>",
+			"type": "default"
+		},
+		{
+			"key": "lookup-table-qualifications",
+			"value": "<LOOKUP_TABLE_URL_QUAL>",
+			"type": "default"
+		},
+		{
+			"key": "lookup-table-roles",
+			"value": "<LOOKUP_TABLE_URL_ROLE>",
+			"type": "default"
+		},
+		{
+			"key": "lookup-table-languages",
+			"value": "<LOOKUP_TABLE_URL_LANG>",
+			"type": "default"
+		}
+	]
+}
