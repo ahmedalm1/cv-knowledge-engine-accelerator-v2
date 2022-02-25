@@ -87,4 +87,4 @@ Navigate to the "appsettings.json" file, and change the values according to the 
 You can test the website locally by running the solution in Visual Studio, or publish the website to Azure by following the instructions found here: [Quickstart: Publish an ASP.NET web app](https://docs.microsoft.com/en-US/visualstudio/deployment/quickstart-deploy-aspnet-web-app?view=vs-2019&tabs=azure).
 
 ## Step 7: Create the PowerBI Dashboard
-COMING SOON
+TO-DO
