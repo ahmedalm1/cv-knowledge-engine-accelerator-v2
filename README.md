@@ -21,7 +21,7 @@ The following are the Azure resources that are required to deploy this accelerat
 
 ![Architecture](https://user-images.githubusercontent.com/88718044/147383469-bce1ecb2-1e90-4bf2-b780-e49ad62aa186.png)
 
-### Sample Documents 
+## Sample Documents 
 The sample documents used to demo this accelerator are 223 open-source dummy CV documents, acquired from [Resume Krafts](https://resumekraft.com/resume-examples/) website.
 
 ## Extracted Information
