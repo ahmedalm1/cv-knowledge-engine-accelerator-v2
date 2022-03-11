@@ -1,4 +1,4 @@
-# Deployemnt Process
+# Deployment Process
 Deploying the accelerator can be done in seven simple steps, that cover every aspect from deploying the resources, creating the search service elements, and connecting to the index to the website and dashboard interfaces. 
 
 ## Prerequisites
