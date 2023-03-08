@@ -69,3 +69,32 @@ You can find the original project here ([Knowledge Mining Solution Accelerator](
 
 ## License
 For all licensing information refer to [LICENSE](https://github.com/ahmedalm1/cv-knowledge-engine-accelerator-v2/blob/main/LICENSE).
+
+## General Guidelines
+
+When you're getting ready to deploy AI-powered products or features, the following activities help to set you up for success:
+
+- Understand what it can do: Fully assess the capabilities of any AI model you are using to understand its capabilities and limitations. Understand how it will perform in your particular scenario and context.
+
+- Respect an individual's right to privacy: Only collect data and information from individuals for lawful and justifiable purposes. Only use data and information that you have consent to use for this purpose.
+
+- Legal review: Obtain appropriate legal advice to review your solution, particularly if you will use it in sensitive or high-risk applications. Understand what restrictions you might need to work within and your responsibility to resolve any issues that might come up in the future. 
+
+- System review: If you're planning to integrate and responsibly use an AI-powered product or feature into an existing system of software, customers or organizational processes, take the time to understand how each part of your system will be affected.
+
+- Human in the loop: Keep a human in the loop, and include human oversight as a consistent pattern area to explore. This means constant human oversight of the AI-powered product or feature and maintaining the role of humans in decision-making. Ensure you can have real-time human intervention in the solution to prevent harm. This enables you to manage where the AI model doesn't perform as required.
+
+- Security: Ensure your solution is secure and has adequate controls to preserve the integrity of your content and prevent unauthorized access.
+
+## Notes
+
+- Responsible use cases for the accelerator : The accelerator is meant to quicken the applicant screening process for recruiters by providing a way to filter the CVs by their professional attributes, such as skills, years of experience, previous roles, etc. However, the accelerator should not be used to filter candidates based on candidates' PII information such as age, gender, name, email, etc.
+
+- A person should always be involved to review the data sources and output
+
+- The search index does not and should not be used to rank or prioritize CV results. The candidates should only be filtered on their professional attributes, the personal attributes like age, gender, name, email, phone, etc. do not and should not influence the search results
+
+- The accelerator only supports English language CVs, in Word or PDF format. Other language CVs and document format types have not been tested as part of this accelerator.
+
+- Data from candidates used should be obtained only by consent and following all applicable laws
+
